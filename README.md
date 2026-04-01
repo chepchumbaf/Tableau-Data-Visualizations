@@ -1,2 +1,2 @@
 # Tableau-Data-Visualizations
-nteractive Tableau dashboards and Excel data transformation for manufacturing telemetry and employee equality tracking.
+Interactive Tableau dashboards and Excel data transformation for manufacturing telemetry and employee equality tracking.
