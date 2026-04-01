@@ -11,11 +11,16 @@ This project demonstrates data visualization in Tableau and logical data transfo
 ![Downtime Dashboard](Dashboard.png)
 
 ## 📈 Excel: Equality Classification
-**Objective:** Automate the categorization of employee equality scores using nested logic.
+**Objective:** Automate the categorization of employee equality scores.
 
-### Logic Applied:
-* **Fair:** +/- 10
-* **Unfair:** Beyond +/- 10
-* **Highly Discriminative:** Beyond +/- 20
+| Factory | Job Role | Equality Score | Equality Class |
+| :--- | :--- | :--- | :--- |
+| Daikibo-F1 | Technician | 10 | Fair |
+| Daikibo-F2 | Manager | -11 | Unfair |
+| Daikibo-F3 | Engineer | -30 | Highly Discriminative |
+
+*Logic Applied:* - **Fair:** +/- 10
+- **Unfair:** > 10 or < -10
+- **Highly Discriminative:** > 20 or < -20
 
 ![Equality Table](Equality Table.png)
