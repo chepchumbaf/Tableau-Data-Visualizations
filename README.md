@@ -18,4 +18,4 @@ This project demonstrates data visualization in Tableau and logical data transfo
 * **Unfair:** Beyond +/- 10
 * **Highly Discriminative:** Beyond +/- 20
 
-![Equality Table](Equality Table.xlsx)
+![Equality Table](EqualityTable.png)
