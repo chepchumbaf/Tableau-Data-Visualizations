@@ -8,7 +8,7 @@ This project demonstrates data visualization in Tableau and logical data transfo
 * **Logic:** `IF [Status] = "Unhealthy" THEN 10 ELSE 0 END`
 * **Interactive Dashboard:** Built a "Factory-to-Device" filter. Selecting a factory instantly updates the device-specific downtime.
 
-![Downtime Dashboard](Screenshot 2026-04-01 125948.png)
+![Downtime Dashboard](Dashboard.png)
 
 ## 📈 Excel: Equality Classification
 **Objective:** Automate the categorization of employee equality scores using nested logic.
@@ -18,4 +18,4 @@ This project demonstrates data visualization in Tableau and logical data transfo
 * **Unfair:** Beyond +/- 10
 * **Highly Discriminative:** Beyond +/- 20
 
-![Equality Table](Screenshot 2026-04-01 140713.png)
+![Equality Table](Equality Table.xlsx)
