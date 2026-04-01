@@ -23,4 +23,4 @@ This project demonstrates data visualization in Tableau and logical data transfo
 - **Unfair:** > 10 or < -10
 - **Highly Discriminative:** > 20 or < -20
 
-![Equality Table](Equality Table.png)
+![Equality Table](EqualityTable.png)
